@@ -77,3 +77,6 @@ http://tinfoil.io/Download#download
 
 （26）tinleaf.nro
 https://github.com/blawar/tinleaf/releases
+
+（27）Safe_Reboot_Shutdown
+https://github.com/dezem/Safe_Reboot_Shutdown
